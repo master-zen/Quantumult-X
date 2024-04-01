@@ -1,2 +1,14 @@
+HOST, captive.apple.com, Direct
+HOST, www.hubpd.com, Direct
+HOST, challenges.cloudflare.com, Direct
+HOST-SUFFIX, icloud.com.cn, Direct
+HOST-SUFFIX, downloadtorrentfile.com, Direct
+HOST-SUFFIX, mac-torrent-download.net, Direct
+HOST-SUFFIX, torrentmac.net, Direct
+HOST-SUFFIX, appstorrent.ru, Direct
+HOST-SUFFIX, announce, Direct
+HOST-SUFFIX, announce.php, Direct
+HOST-SUFFIX, qbittorrent.org, Direct
+HOST-SUFFIX, libtorrent.org, Direct
 HOST-SUFFIX, asus.com, Direct
 HOST-SUFFIX, ddys.pro, Direct

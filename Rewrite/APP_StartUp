@@ -1,8 +1,0 @@
-hostname = *google.com, *google.cn, *g.cn, *bing.com, *bing.com.cn, *bing.cn
-
-# Google cn To com Redirect
-^https?:\/\/(www\.)?(g\.cn|google\.cn) url 307 https://www.google.com
-
-# Bing cn To com Redirect
-^https?:\/\/(cn\.)?bing\.com url 307 https://www.bing.com
-^https?:\/\/(www\.)?bing(\.com\.cn|\.cn) url 307 https://www.bing.com

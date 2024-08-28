@@ -20,3 +20,5 @@ HOST, cc-api-data.adobe.io, Final
 HOST-SUFFIX, blog.google, Final
 HOST-SUFFIX, googleapis.com, Final
 HOST-SUFFIX, googletraveladservices.com, Final
+
+HOST-SUFFIX, app-analytics-services.com, Final

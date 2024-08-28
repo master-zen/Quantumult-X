@@ -14,6 +14,7 @@ HOST, dl.google.com, Final
 HOST, dl.l.google.com, Final
 HOST, mtalk.google.com, Final
 HOST, update.googleapis.com, Final
+HOST, cc-api-data.adobe.io, Final
 #
 #HOST-SUFFIX
 HOST-SUFFIX, blog.google, Final

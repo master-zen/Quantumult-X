@@ -1,10 +1,20 @@
-HOST, app-measurement.com, Final
+#
+#HOST
 HOST, t.co, Final
-HOST, www.btbdys.com, Final
-HOST, wps.apple.com, Final
-HOST, email-link.adtidy.org, Final
-HOST-SUFFIX, busymans.com, Final
-HOST-SUFFIX, bt4gprx.com, Final
-HOST-SUFFIX, btbdys.com, Final
-HOST-SUFFIX, libvio.com, Final
-HOST-SUFFIX, pornhub.com, Final
+HOST, alt1-mtalk.google.com, Final
+HOST, alt2-mtalk.google.com, Final
+HOST, alt3-mtalk.google.com, Final
+HOST, alt4-mtalk.google.com, Final
+HOST, alt5-mtalk.google.com, Final
+HOST, alt6-mtalk.google.com, Final
+HOST, alt7-mtalk.google.com, Final
+HOST, alt8-mtalk.google.com, Final
+HOST, clientservices.googleapis.com, Final
+HOST, dl.google.com, Final
+HOST, dl.l.google.com, Final
+HOST, mtalk.google.com, Final
+HOST, update.googleapis.com, Final
+#
+#HOST-SUFFIX
+HOST-SUFFIX, blog.google, Final
+HOST-SUFFIX, googletraveladservices.com, Final

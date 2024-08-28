@@ -1,6 +1,23 @@
+#
+#
+IP-CIDR, 10.0.0.0/8, Direct
+IP-CIDR, 100.64.0.0/10, Direct
+IP-CIDR, 127.0.0.0/8, Direct
+IP-CIDR, 172.16.0.0/12, Direct
+IP-CIDR, 192.168.0.0/16, Direct
+IP-CIDR, 224.0.0.0/24, Direct
+IP-CIDR, 119.29.29.98/32, Direct
+IP6-CIDR, ::/0, Direct
+#
 HOST, captive.apple.com, Direct
 HOST, www.hubpd.com, Direct
-HOST, challenges.cloudflare.com, Direct
+#HOST, challenges.cloudflare.com, Direct
+#HOST, ad.12306.cn, Direct
+HOST, gg.caixin.com, Direct
+HOST, sdkapp.uve.weibo.com, Direct
+#
+HOST-SUFFIX, local, Direct
+HOST-SUFFIX, localhost, Direct
 HOST-SUFFIX, icloud.com.cn, Direct
 HOST-SUFFIX, downloadtorrentfile.com, Direct
 HOST-SUFFIX, mac-torrent-download.net, Direct
@@ -12,3 +29,7 @@ HOST-SUFFIX, qbittorrent.org, Direct
 HOST-SUFFIX, libtorrent.org, Direct
 HOST-SUFFIX, asus.com, Direct
 HOST-SUFFIX, ddys.pro, Direct
+HOST-SUFFIX, pbcdci.cn, Direct
+HOST-SUFFIX, ucweb.com, Direct
+HOST-SUFFIX, kuwo.cn, Direct
+

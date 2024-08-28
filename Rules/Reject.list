@@ -1,0 +1,3 @@
+# 哔哩哔哩广告
+# h2下会请求这个,但请求会很慢发出
+HOST,grpc.biliapi.net,REJECT

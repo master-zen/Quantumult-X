@@ -10,8 +10,7 @@ IP-CIDR, 119.29.29.98/32, Direct
 IP6-CIDR, ::/0, Direct
 #
 #HOST
-HOST, www.hubpd.com, Direct
-HOST, challenges.cloudflare.com, Direct
+# HOST, challenges.cloudflare.com, Direct
 HOST, gg.caixin.com, Direct
 HOST, sdkapp.uve.weibo.com, Direct
 HOST, ad.10010.com, Direct
@@ -59,6 +58,8 @@ HOST, vd.l.qq.com, Direct
 HOST, vi.l.qq.com, Direct
 HOST, vip.ffzyread.com, Direct
 HOST, vip.imgffzy.com, Direct
+HOST, comm.app.autohome.com.cn, Direct
+HOST, www.hubpd.com, Direct
 #
 #HOST-SUFFIX
 HOST-SUFFIX, local, Direct

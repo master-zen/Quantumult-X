@@ -6,6 +6,7 @@ HOST, dl.google.com, Final
 HOST, dl.l.google.com, Final
 HOST, update.googleapis.com, Final
 HOST, cc-api-data.adobe.io, Final
+HOST, m.discuss.com.hk, Final
 
 #
 #HOST-SUFFIX
@@ -13,3 +14,4 @@ HOST-SUFFIX, blog.google, Final
 HOST-SUFFIX, googleapis.com, Final
 HOST-SUFFIX, googletraveladservices.com, Final
 HOST-SUFFIX, weather.com, Final
+HOST-SUFFIX, discuss.com.hk, Final

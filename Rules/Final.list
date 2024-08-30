@@ -1,18 +1,9 @@
 #
 #HOST
 HOST, t.co, Final
-HOST, alt1-mtalk.google.com, Final
-HOST, alt2-mtalk.google.com, Final
-HOST, alt3-mtalk.google.com, Final
-HOST, alt4-mtalk.google.com, Final
-HOST, alt5-mtalk.google.com, Final
-HOST, alt6-mtalk.google.com, Final
-HOST, alt7-mtalk.google.com, Final
-HOST, alt8-mtalk.google.com, Final
 HOST, clientservices.googleapis.com, Final
 HOST, dl.google.com, Final
 HOST, dl.l.google.com, Final
-HOST, mtalk.google.com, Final
 HOST, update.googleapis.com, Final
 HOST, cc-api-data.adobe.io, Final
 

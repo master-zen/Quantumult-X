@@ -167,8 +167,6 @@ HOST, aegir.sexy, Tracker
 HOST, 207.241.226.111, Tracker
 HOST, 207.241.231.226, Tracker
 HOST, 49.12.76.8, Tracker
-HOST, [2a01:4f8:c012:8025::1], Tracker
-HOST, [2a04:ac00:1:3dd8::1:2710], Tracker
 HOST, bt.okmp3.ru, Tracker
 HOST, nyaa.tracker.wf, Tracker
 HOST, retracker.hotplug.ru, Tracker
@@ -189,8 +187,6 @@ HOST, tracker.kuroy.me, Tracker
 HOST, tracker1.520.jp, Tracker
 HOST, trackers.mlsub.net, Tracker
 HOST, 52.58.128.163, Tracker
-HOST, [2a03:7220:8083:cd00::1], Tracker
-HOST, [2a0f:e586:f:f::81], Tracker
 HOST, bandito.byterunner.io, Tracker
 HOST, dataforai.com, Tracker
 HOST, ec2-18-191-163-220.us-east-2.compute.amazonaws.com, Tracker

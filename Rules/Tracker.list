@@ -143,7 +143,7 @@ HOST, fh2.cmp-gaming.com, Tracker
 HOST, tracker.bitsearch.to, Tracker
 HOST, pow7.com, Tracker
 HOST, tracker.openbittorrent.com, Tracker
-HOST, 9.rarbg.me:2820/announce
+HOST, 9.rarbg.me, announce
 HOST, tracker.coppersurfer.tk, Tracker
 HOST, peertube.cpy.re, Tracker
 HOST, tracker.webtorrent.dev, Tracker
@@ -191,7 +191,7 @@ HOST, 52.58.128.163, Tracker
 HOST, [2a03:7220:8083:cd00::1], Tracker
 HOST, [2a0f:e586:f:f::81], Tracker
 HOST, bandito.byterunner.io, Tracker
-HOST, dataforai.com:31332, Tracker
+HOST, dataforai.com, Tracker
 HOST, ec2-18-191-163-220.us-east-2.compute.amazonaws.com, Tracker
 HOST, ns575949.ip-51-222-82.net, Tracker
 HOST, open.tracker.ink, Tracker

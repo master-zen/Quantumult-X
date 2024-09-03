@@ -5,4 +5,8 @@ HOST,grpc.biliapi.net,REJECT
 # 知乎广告
 HOST, mqtt.zhihu.com, Reject
 HOST, sugar.zhihu.com, Reject
+USER-AGENT, ZhihuHybrid*, Reject
 
+#
+HOST-KEYWORD, adsite, Reject
+USER-AGENT, AVOS*, Reject

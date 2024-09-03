@@ -7,6 +7,8 @@ HOST, dl.l.google.com, Final
 HOST, update.googleapis.com, Final
 HOST, cc-api-data.adobe.io, Final
 HOST, m.discuss.com.hk, Final
+HOST, api.adapty.io, Final
+HOST, dblr1a.turn.livekit.cloud, Final
 
 #
 #HOST-SUFFIX
@@ -15,3 +17,5 @@ HOST-SUFFIX, googleapis.com, Final
 HOST-SUFFIX, googletraveladservices.com, Final
 HOST-SUFFIX, weather.com, Final
 HOST-SUFFIX, discuss.com.hk, Final
+HOST-SUFFIX, livekit.cloud, Final
+HOST-SUFFIX, api.revenuecat.com, Final

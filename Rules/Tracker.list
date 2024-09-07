@@ -150,7 +150,7 @@ HOST, fh2.cmp-gaming.com, Tracker
 HOST, tracker.bitsearch.to, Tracker
 HOST, pow7.com, Tracker
 HOST, tracker.openbittorrent.com, Tracker
-HOST, 9.rarbg.me, announce
+HOST, 9.rarbg.me, Tracker
 HOST, tracker.coppersurfer.tk, Tracker
 HOST, peertube.cpy.re, Tracker
 HOST, tracker.webtorrent.dev, Tracker

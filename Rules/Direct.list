@@ -66,9 +66,6 @@ HOST-SUFFIX, local, Direct
 HOST-SUFFIX, localHOST, Direct
 HOST-SUFFIX, icloud.com.cn, Direct
 HOST-SUFFIX, downloadtorrentfile.com, Direct
-HOST-SUFFIX, mac-torrent-download.net, Direct
-HOST-SUFFIX, torrentmac.net, Direct
-HOST-SUFFIX, appstorrent.ru, Direct
 HOST-SUFFIX, announce, Direct
 HOST-SUFFIX, announce.php, Direct
 HOST-SUFFIX, qbittorrent.org, Direct
@@ -77,7 +74,8 @@ HOST-SUFFIX, asus.com, Direct
 HOST-SUFFIX, hpplay.cn, Direct
 ## macOS软件：
 HOST-SUFFIX, appstorrent.ru, Direct
-HOST-SUFFIX, torrentmac.net, Direct
+# HOST-SUFFIX, torrentmac.net, Direct
+# HOST-SUFFIX, mac-torrent-download.net, Direct
 ## 缘觉影视地址：
 HOST-SUFFIX, bdys.me, Direct
 HOST-SUFFIX, yjys02.com, Direct

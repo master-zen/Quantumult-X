@@ -10,8 +10,6 @@ IP-CIDR, 119.29.29.98/32, Direct
 IP6-CIDR, ::/0, Direct
 #
 #HOST
-HOST, erebor.douban.com, Direct
-HOST, push.douban.com, Direct
 HOST, gg.caixin.com, Direct
 HOST, sdkapp.uve.weibo.com, Direct
 HOST, ad.10010.com, Direct

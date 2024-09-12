@@ -1,7 +1,7 @@
 #
 #HOST
 HOST, t.co, Final
-HOST, fundingchoicesmessages.google.com, Final
+# HOST, fundingchoicesmessages.google.com, Final
 HOST, clientservices.googleapis.com, Final
 HOST, dl.google.com, Final
 HOST, dl.l.google.com, Final

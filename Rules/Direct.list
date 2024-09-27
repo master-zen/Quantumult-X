@@ -71,6 +71,7 @@ HOST-SUFFIX, qbittorrent.org, Direct
 HOST-SUFFIX, libtorrent.org, Direct
 HOST-SUFFIX, asus.com, Direct
 HOST-SUFFIX, hpplay.cn, Direct
+HOST-SUFFIX, suning.com, Direct
 ## macOS软件：
 HOST-SUFFIX, appstorrent.ru, Direct
 # HOST-SUFFIX, torrentmac.net, Direct

@@ -10,8 +10,10 @@ HOST-SUFFIX, googletraveladservices.com, Google
 HOST-SUFFIX, app-analytics-services.com, Google
 
 # HOST
-HOST, t.co, Final
-HOST, cc-api-data.adobe.io, Final
+
+HOST, wl.spotify.com, Spotify
+HOST, t.co, Twitter
+HOST, cc-api-data.adobe.io, Adobe
 HOST, m.discuss.com.hk, Final
 HOST, api.adapty.io, Final
 HOST, dblr1a.turn.livekit.cloud, Final

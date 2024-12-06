@@ -9,6 +9,7 @@ ip-cidr, 139.199.240.12/32, reject
 ip-cidr, 116.85.3.37/32, reject
 ip-cidr, 162.14.157.2/32, reject
 ip-cidr, 162.14.157.24/32, reject
+ip-cidr, 139.199.240.15/32, reject
 
 # 知乎广告
 HOST, mqtt.zhihu.com, Reject
